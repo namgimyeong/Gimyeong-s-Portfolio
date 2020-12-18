@@ -1,0 +1,46 @@
+*{margin: 0;}
+
+html{font-size: 10px;}
+body{font-size: 1rem;}
+a{text-decoration: none;color: #ffffff;}
+
+header{height: 10rem;text-align: center;background-color: #EDEAF9;}
+header > .logo{padding-top: 1.7rem;}
+
+section > .keyvisual{text-align: center;background-image: url('../img/m_04.png');height: 64.1rem;}
+
+section > .keyvisual > img{padding-top: 15.2rem;}
+section > .keyvisual > .keyvisual_name > img{padding-top: 20.4rem;}
+
+section > .profile{background-image: url('../img/m_09.png');height: 109.5rem;}
+
+.pf_01, .pf_02, .pf_03, .pf_04{text-align: center;}
+
+section > .profile > .pf_01{padding-top: 3rem;}
+section > .profile > .pf_02, .pf_03, .pf_04{margin-top: 4.7rem;}
+
+section > .contents > {background-color: white;height: 81.9rem;text-align: center;}
+section > .contents > img{margin-top: 4.7rem;}
+
+.pf_tit_1, .pf_tit_2, .pf_tit_3, .pf_tit_4{text-align: center;margin-top: 4.7rem;}
+.pf_1, .pf_2, .pf_3, .pf_4{text-align: center;margin-top: 1.5rem;}
+
+section > .pf_1{background-color: white;height: 259.4rem;}
+section > .pf_2{background-color: white;height: 162.6rem;}
+section > .pf_3{background-color: white;height: 116.8rem;}
+section > .pf_4{background-color: white;height: 109.7rem;}
+
+section > .sub_01 {background-image: url('../img/m_pf_sub_01_bg.png');height: 15rem;text-align: center;margin-top: 4.7rem;}
+section > .sub_01 > img{margin-top: 5.2rem;}
+
+section > .sub_02 {background-image: url('../img/m_pf_sub_02_bg.png');height: 15rem;text-align: center;margin-top: 4.7rem;}
+section > .sub_02 > img{margin-top: 5.2rem;}
+
+section > .sub_03 {background-image: url('../img/m_pf_sub_03_bg.png');height: 15rem;text-align: center;margin-top: 4.7rem;}
+section > .sub_03 > img{margin-top: 5.2rem;}
+
+section > .sub_04 {background-image: url('../img/m_pf_sub_04_bg.png');height: 15rem;text-align: center;margin-top: 4.7rem;}
+section > .sub_04 > img{margin-top: 5.2rem;}
+
+footer {background-color: #EDEAF9;height: 15.1rem;text-align: center;margin-top: 4.7rem;}
+footer > img{margin-top: 3rem;}
